@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Sunshine",
+    "location": "Rio de Janeiro",
+    "price": "$ 150",
+    "image": "/images/image1.png",
+    "rating": 4.5
+  },
+    {
+    "id": 2,
+    "name": "Mountain Retreat",
+    "location": "Campos do Jordão",
+    "price": "$ 200",
+    "image": "/images/image2.png",
+    "rating": 3.5
+  },
+  {
+    "id": 3,
+    "name": "City Lights Hotel",
+    "location": "São Paulo",
+    "price": "$ 180",
+    "image": "/images/image3.png",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Beachfront Paradise",
+    "location": "Florianópolis",
+    "price": 220,
+    "image": "/images/image5.png",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Luxury Stay",
+    "location": "Curitiba",
+    "price": "$ 250",
+    "image": "/images/image4.png",
+    "rating": 5
+  },
+  {
+   " id": 6,
+    "name": "Budget Inn",
+    "location": "Porto Alegre",
+    "price": "$ 100",
+    "image": "/images/image6.png",
+    "rating": 3.5
+  },
+  {
+    "id": 7,
+    "name": "Urban Escape",
+    "location": "Salvador",
+    "price": "$ 190",
+    "image": "/images/image7.png",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Seaside Resort",
+    "location": "Recife",
+    "price": "$ 210",
+    "image": "/images/image8.png",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Cozy Cottage",
+    "location": "Gramado",
+    "price": "$ 130",
+    "image": "/images/image9.png",
+    "rating": 3.5
+  },
+  {
+    "id": 10,
+    "name": "Business Hotel",
+    "location": "Belo Horizonte",
+    "price": "$ 170",
+    "image": "/images/image10.png",
+    "rating": 4
+  },
+  {
+   " id": 11,
+    "name": "Boutique Hotel",
+    "location": "Brasília",
+    "price": "$ 240",
+    "image": "/images/image11.png",
+    "rating": 5
+  },
+  {
+    "id": 12,
+    "name": "Desert Oasis",
+    "location": "Natal",
+    "price": "$ 300",
+    "image": "/images/image12.png",
+    "rating": 4
+  }
+]
