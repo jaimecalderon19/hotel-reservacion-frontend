@@ -90,8 +90,11 @@ async function validateAndLogin(): Promise<void> {
 }
 
 async function login(): Promise<void> {
-  await authenticationStore.login({email: email.value, password: password.value});
-  router.push({ name: "/" });
+  const isAutenticate = await authenticationStore.login({email: email.value, password: password.value});
+  if(!isAutenticate){
+    return;
+  }
+  router.push("/");
 }
 
 </script>

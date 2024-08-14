@@ -29,7 +29,7 @@ export const AuthenticationStore = defineStore("authentication", {
           
           console.log("llego arriba del toast");
           
-          $toast.sucess("Iniciaste seccion con exito")
+          $toast.success("Iniciaste seccion con exito")
 
           return true
         })
