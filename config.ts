@@ -1,1 +1,1 @@
-export const BaseUrl =  'http://localhost:8000'
+export const BaseUrl =  'https://hotel-reservacion-backend-production.up.railway.app/'

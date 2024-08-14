@@ -1,6 +1,11 @@
 # Hotel Reservación - Prueba Técnica
 
-Descripción breve de tu proyecto. Explica qué hace tu aplicación y cuál es su propósito.
+Este proyecto es una aplicación web de reservas de hoteles desarrollada con Nuxt 3. La aplicación permite a los usuarios buscar, comparar y reservar hoteles de manera rápida y sencilla.
+
+### Funcionalidades Principales:
+- Login y Registro: Los usuarios pueden crear una cuenta y acceder a la aplicación mediante un sistema de autenticación seguro.
+
+- Página Principal: Una vez autenticados, los usuarios pueden navegar por una lista de hoteles disponibles, cada uno con su respectiva descripción, ubicación, clasificación por estrellas y precio por noche. También pueden utilizar filtros de búsqueda para encontrar el hotel que mejor se adapte a sus necesidades.
 
 ## Características
 
@@ -10,6 +15,11 @@ Descripción breve de tu proyecto. Explica qué hace tu aplicación y cuál es s
 - **Vue 3**: Aprovecha el poder de Vue 3.
 - **Tailwind CSS**: Estilos rápidos y modernos con Tailwind CSS (si lo estás usando).
 
+
+## Enlace en Producción
+
+Puedes probar la aplicación en producción aquí: [Hotel Finder en Producción](https://hotel-reservacion-frontend-production.up.railway.app/)
+
 ## Repositorios
 
 Este proyecto consta de dos repositorios:
@@ -17,11 +27,14 @@ Este proyecto consta de dos repositorios:
 - Frontend: [https://github.com/jaimecalderon19/hotel-reservacion-frontend.git](https://github.com/jaimecalderon19/hotel-reservacion-frontend.git)
 - Backend: [https://github.com/jaimecalderon19/hotel-reservacion-backend.git](https://github.com/jaimecalderon19/hotel-reservacion-backend.git)
 
-## Video de Demostración
+## Capturas de Pantalla
 
-A continuación, puedes ver un video de demostración del proyecto:
+Aquí tienes algunas capturas de pantalla del proyecto:
 
-![Video de Demostración](public/videos/pruebaTecnica.mp4)
+![Captura de Pantalla 1](public/images/captura_1.png)
+![Captura de Pantalla 2](public/images/captura_2.png)
+![Captura de Pantalla 3](public/images/captura_3.png)
+![Captura de Pantalla 4](public/images/captura_4.png)
 
 ## Requisitos Previos
 
